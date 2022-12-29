@@ -1,8 +1,8 @@
 - 👋 Hi, I’m İkram Fatih Öztırpan, I study in computer engineering for now.
 - 👀 I’m interested in artifical intelligence and game develop.
 - 🌱 I’m currently learning C and Python.
-- 💞️ I don't look any collaborate for now.
-- 📫 You can reach me with ikramfatihoztirpan@gmail.com
+- 💞️ I can take part in collaborate for some project.
+- 📫 You can reach me with segemoglu@gmail.com
 
 I'm deal to game development as a single.
 
