@@ -22,5 +22,5 @@ If you'd like to contribute to any of my projects, please don't hesitate to subm
 ## 📫 Get in Touch
 
 - GitHub: [GitHub](https://github.com/segemoglu)
-- LinkedIn: (www.linkedin.com/in/ikram-fatih-öztırpan-671233260)
+- LinkedIn: www.linkedin.com/in/ikram-fatih-öztırpan-671233260
 - Email: Segemoglu@gmail.com
