@@ -1,12 +1,26 @@
-- 👋 Hi, I’m İkram Fatih Öztırpan, I study in computer engineering for now.
-- 👀 I’m interested in artifical intelligence and game develop.
-- 🌱 I’m currently learning C and Python.
-- 💞️ I can take part in collaborate for some project.
-- 📫 You can reach me with segemoglu@gmail.com
+# Hello, I'm İkram Fatih Öztırpan;
 
-I'm deal to game development as a single.
+I'm a software developer working on artificial intelligence and embedded systems. In this GitHub profile, I share various projects and aim to share my experiences and knowledge in these fields.
 
-<!---
-segemoglu/segemoglu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 Projects
+
+Some of the projects I'm currently working on or have completed:
+
+- Closed-source projects for Teknofest ground station, communication, and satellite technologies.
+
+## 🤝 Contributing
+
+If you'd like to contribute to any of my projects, please don't hesitate to submit a Pull Request. Any contributions and feedback are valuable to me.
+
+## 📚 Technologies and Languages
+
+- C
+- C#
+- Java
+- Python
+
+## 📫 Get in Touch
+
+- GitHub: [GitHub](https://github.com/segemoglu)
+- LinkedIn: [LinkedIn](www.linkedin.com/in/ikram-fatih-öztırpan-671233260)
+- Email: Segemoglu@gmail.com
